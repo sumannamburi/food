@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+
 <div class="datatable-begin"></div>
 
 Food    | Description                           | Category | Sample type
