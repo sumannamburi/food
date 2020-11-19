@@ -5,7 +5,13 @@
 
 <script src="js/jquery-3.5.1.js"></script>
 <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="js/dataTables.rowReorder.min.js"></script>
+<script type="text/javascript" src="js/dataTables.responsive.min.js"></script>
+
+
 <link rel="stylesheet" href="css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="css/rowReorder.dataTables.min.css">
+<link rel="stylesheet" href="css/responsive.dataTables.min.css">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <style>
@@ -14,12 +20,17 @@ div.dataTables_wrapper {
     }
 </style>
 <script>
-   $(document).ready(function() {
-    $('table.display').DataTable();
+ $(document).ready(function() {
+    var table = $(tab).DataTable( {
+        rowReorder: {
+            selector: 'td:nth-child(2)'
+        },
+        responsive: true
+    } );
 } );
 </script>
 <body>
-<table id="" class="display" style="width:100%">
+<table id="tab" class="display" style="width:100%">
         <thead>
             <tr>
                 <th>Name</th>
@@ -104,7 +115,7 @@ div.dataTables_wrapper {
             </tr>
         </tfoot>
     </table>
-    <table id="" class="display" style="width:100%">
+    <table id="tab" class="display" style="width:100%">
         <thead>
             <tr>
                 <th>Name</th>
