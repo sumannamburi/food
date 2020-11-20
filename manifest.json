@@ -8,5 +8,5 @@
     "description": "description or purpose of your progressive web app",
     "lang": "en-US",
     
-    "start_url": "index.html?launcher=true",
+    "start_url": "index.html?launcher=true"
     }
