@@ -1,0 +1,23 @@
+ {
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation":"portrait",
+    "theme_color": "#fff",           
+    "short_name": "Food",
+    "name": "Food",
+    "description": "No frills food quality checker",
+    "lang": "en-US",
+    "icons": [
+          {
+            "src": "images/icons/android-launchericon-192-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "images/icons/android-launchericon-512-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+          ],
+    "start_url": "index.html?launcher=true"
+    }
