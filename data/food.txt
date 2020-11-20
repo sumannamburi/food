@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Tiger Nixon",
-    "position": "System Architect",
+    "position": "Coconut milk in the can is what you want for cooking; coconut milk beverage in the carton is for drinking. My favorite is canned coconut milk from Trader Joe’s.",
     "salary": "$320,800",
     "start_date": "2011/04/25",
     "office": "Edinburgh",
