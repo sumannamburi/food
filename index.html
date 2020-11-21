@@ -7,10 +7,10 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
 
-<script type="text/javascript" async src="js/jquery-3.5.1.js"></script>
-<script type="text/javascript" async  src="js/jquery.dataTables.min.js"></script>
-<script type="text/javascript" async  src="js/dataTables.rowReorder.min.js"></script>
-<script type="text/javascript" async  src="js/dataTables.responsive.min.js"></script>
+<script  defer src="js/jquery-3.5.1.js"></script>
+<script defer  src="js/jquery.dataTables.min.js"></script>
+<script  defer  src="js/dataTables.rowReorder.min.js"></script>
+<script  defer  src="js/dataTables.responsive.min.js"></script>
 
 <link rel="canonical" href="https://sumi-rgb.github.io/food/" />
 
@@ -22,7 +22,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 
-<script>
+
+</head>
+<body>
+
+    <script>
  $(document).ready(function() {
     $('#tab').DataTable( {
         "ajax": {
@@ -43,7 +47,6 @@
     } );
 } );
 </script>
-<body>
       <script>
   // register ServiceWorker, remember to use absolute path!
   if (navigator.serviceWorker) {
