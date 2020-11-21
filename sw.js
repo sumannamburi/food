@@ -12,7 +12,7 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/food/css/responsive.dataTables.min.css',
   '/food/css/jquery.dataTables.min.css',
   '/food/css/rowReorder.dataTables.min.css',
-  '/food/js/jquery-3.5.1.js',
+  '/food/js/jquery-3.5.1.min.js',
   '/food/favicon.ico'
 
 
