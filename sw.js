@@ -4,8 +4,16 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
   '/food/',                     // If you have separate JS/CSS files,
   '/food/index.html',
-  '/food/data/food.txt'
-  
+  '/food/data/food.txt',
+  '/food/sw.js',
+  '/food/js/jquery.dataTables.min.js',
+  '/food/js/dataTables.rowReorder.min.js',
+  '/food/js/dataTables.responsive.min.js',
+  '/food/css/responsive.dataTables.min.css',
+  '/food/css/jquery.dataTables.min.css',
+  '/food/css/rowReorder.dataTables.min.css',
+  '/food/js/jquery-3.5.1.js',
+  '/food/favicon.ico'
 
 
      // add path to those files here
