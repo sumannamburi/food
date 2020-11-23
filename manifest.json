@@ -1,8 +1,8 @@
  {
-    "background_color": "#92CD28",
+    "background_color": "#f3d7b5",
     "display": "standalone",
     "orientation":"portrait",
-    "theme_color": "#E76F51",           
+    "theme_color": "#c3a0b1",           
     "short_name": "Food check",
     "name": "Food check",
     "description": "No frills food quality checker",
