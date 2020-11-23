@@ -1,10 +1,10 @@
  {
-    "background_color": "#fff",
+    "background_color": "#E4C1F9",
     "display": "standalone",
     "orientation":"portrait",
-    "theme_color": "#fff",           
-    "short_name": "Food",
-    "name": "Food",
+    "theme_color": "A9DEF9",           
+    "short_name": "Food check",
+    "name": "Food check",
     "description": "No frills food quality checker",
     "lang": "en-US",
     "icons": [

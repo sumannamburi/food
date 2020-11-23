@@ -1,0 +1,277 @@
+[
+  {
+    "Ingredient": "Acacia gum",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Annatto",
+    "Safe?": "Yes",
+    "Notes": "Color from a seed added to make cheese orange."
+  },
+  {
+    "Ingredient": "Artificial flavors",
+    "Safe?": "No",
+    "Notes": "This one is easy!"
+  },
+  {
+    "Ingredient": "Aspertame",
+    "Safe?": "No",
+    "Notes": "Fake sugarak a NutraSweet"
+  },
+  {
+    "Ingredient": "BHT",
+    "Safe?": "No",
+    "Notes": "Bad preservative in cereal most brands donot use any more."
+  },
+  {
+    "Ingredient": "Calcium carbonate",
+    "Safe?": "Yes",
+    "Notes": "Vitamin fortified with calcium common in plant-based milk"
+  },
+  {
+    "Ingredient": "Calcium disodium EDTA",
+    "Safe?": "No",
+    "Notes": "Preservative used in mayonnaise to cover up rancid smells"
+  },
+  {
+    "Ingredient": "Canola oil",
+    "Safe?": "No",
+    "Notes": "Only expeller pressed non-GMO or expeller pressed organic"
+  },
+  {
+    "Ingredient": "Caramel color",
+    "Safe?": "No",
+    "Notes": "Makes food look brown like stock and broth."
+  },
+  {
+    "Ingredient": "Carrageenan",
+    "Safe?": "No",
+    "Notes": "Emulsifier made from seaweed known to upset your stomach"
+  },
+  {
+    "Ingredient": "Cellulose",
+    "Safe?": "Yes",
+    "Notes": "but not idealWood pulp and used as anti-caking agent on shredded cheese"
+  },
+  {
+    "Ingredient": "Corn starch",
+    "Safe?": "No",
+    "Notes": "except in some vegan productsUsually made from GMO corn"
+  },
+  {
+    "Ingredient": "Corn syrup",
+    "Safe?": "No",
+    "Notes": "Highly processed sugar from GMO corn"
+  },
+  {
+    "Ingredient": "Cottonseed Oil",
+    "Safe?": "No",
+    "Notes": "The most processed and chemical laden oil."
+  },
+  {
+    "Ingredient": "Dextrose",
+    "Safe?": "No",
+    "Notes": "Processed form of sugar"
+  },
+  {
+    "Ingredient": "Dicalcium phosphate",
+    "Safe?": "Yes - but not ideal",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Dipotassium phosphate",
+    "Safe?": "Yes - but not ideal",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Dough Conditioners",
+    "Safe?": "No",
+    "Notes": "Chemicals bread makers use to bake bread faster"
+  },
+  {
+    "Ingredient": "Enriched flour and bleached flour",
+    "Safe?": "No",
+    "Notes": "Processed flours that have the nutrition stripped away"
+  },
+  {
+    "Ingredient": "Erythritol",
+    "Safe?": "Yes",
+    "Notes": "Sugar free sweetener,  best when used in monk fruit sweetener"
+  },
+  {
+    "Ingredient": "Expeller pressed",
+    "Safe?": "Yes",
+    "Notes": "The safe way to consume certain oils"
+  },
+  {
+    "Ingredient": "Food colors",
+    "Safe?": "No",
+    "Notes": "Anything that says yellow #5;Blue #2; and so on."
+  },
+  {
+    "Ingredient": "Gellan gum",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "High fructose corn syrup",
+    "Safe?": "No",
+    "Notes": "Highly processed sugar from GMO corn"
+  },
+  {
+    "Ingredient": "High oleic oil",
+    "Safe?": "No",
+    "Notes": "High in heart healthy monounsaturated fat but not expeller pressed"
+  },
+  {
+    "Ingredient": "Hydrolyzed protein",
+    "Safe?": "No",
+    "Notes": "Another name for msg"
+  },
+  {
+    "Ingredient": "Locust bean gum",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Maltodextrin",
+    "Safe?": "No",
+    "Notes": "Preservative usually made from GMO corn. It's high on the glycemic index and will spike your blood sugar"
+  },
+  {
+    "Ingredient": "Monk fruit",
+    "Safe?": "Yes",
+    "Notes": "Both the pure form and monk fruit sweetener is one of my favorites"
+  },
+  {
+    "Ingredient": "Mono and diglycerides",
+    "Safe?": "No",
+    "Notes": "Another word for trans-fats"
+  },
+  {
+    "Ingredient": "Monosodium glutamate (MSG)",
+    "Safe?": "No",
+    "Notes": "Man-made MSG"
+  },
+  {
+    "Ingredient": "Natural flavors",
+    "Safe?": "No",
+    "Notes": "Stay away and read this chapter of the book"
+  },
+  {
+    "Ingredient": "Palm oil",
+    "Safe?": "No",
+    "Notes": "Avoid this highly processed oil."
+  },
+  {
+    "Ingredient": "Polysorbate 80",
+    "Safe?": "No",
+    "Notes": "Nasty emulsifier"
+  },
+  {
+    "Ingredient": "Potassium Sorbate",
+    "Safe?": "No",
+    "Notes": "Preservative that can be bad for your gut. Not allowed in organic food products."
+  },
+  {
+    "Ingredient": "RiboFlavin",
+    "Safe?": "Yes",
+    "Notes": "Another word for vitamin B2"
+  },
+  {
+    "Ingredient": "Safflower oil",
+    "Safe?": "No",
+    "Notes": "Only expeller pressed is OK"
+  },
+  {
+    "Ingredient": "Sodium erythorbate",
+    "Safe?": "No",
+    "Notes": "Used to cure deli meat faster making it pinker"
+  },
+  {
+    "Ingredient": "Sodium nitrate/nitrite",
+    "Safe?": "No",
+    "Notes": "Salt that has long been used to preserve foods like deli meat and bacon."
+  },
+  {
+    "Ingredient": "Sodium phosphate",
+    "Safe?": "No",
+    "Notes": "Avoid this common preservative in lunch meat"
+  },
+  {
+    "Ingredient": "Soy lecithin",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Soy protein isolate",
+    "Safe?": "No",
+    "Notes": "Avoid this protein derived from soy"
+  },
+  {
+    "Ingredient": "Soybean oil",
+    "Safe?": "No",
+    "Notes": "Only expeller pressed non-GMO or expeller pressed organic"
+  },
+  {
+    "Ingredient": "Splenda",
+    "Safe?": "No",
+    "Notes": "Chemically made fake sugar that makes your brain crave more sweet things"
+  },
+  {
+    "Ingredient": "Stevia",
+    "Safe?": "Yes",
+    "Notes": "Only buy pure  100% stevia with no additives"
+  },
+  {
+    "Ingredient": "Sucralose",
+    "Safe?": "No",
+    "Notes": "Another word for Splenda"
+  },
+  {
+    "Ingredient": "Sunflower lecithin",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Sunflower oil",
+    "Safe?": "No",
+    "Notes": "Only expeller pressed"
+  },
+  {
+    "Ingredient": "Tapioca maltodextrin",
+    "Safe?": "Yes - but not ideal",
+    "Notes": "Safer version of this food preservative."
+  },
+  {
+    "Ingredient": "Tapioca starch",
+    "Safe?": "Yes",
+    "Notes": "Usually found in gluten free products and is safe"
+  },
+  {
+    "Ingredient": "Tocopherols",
+    "Safe?": "Yes",
+    "Notes": "Natural form on vitamin E.Helps with preservation of cereals"
+  },
+  {
+    "Ingredient": "Tricalcium phosphate",
+    "Safe?": "Yes",
+    "Notes": "Vitamin fortified with calcium,  common in plant-based milk"
+  },
+  {
+    "Ingredient": "Vegetable oil",
+    "Safe?": "No",
+    "Notes": "Only expeller pressed non-GMO or expeller pressed organic"
+  },
+  {
+    "Ingredient": "Xanthan gum",
+    "Safe?": "Yes",
+    "Notes": "Common emulsifier in plant-based milk"
+  },
+  {
+    "Ingredient": "Yeast extract",
+    "Safe?": "No",
+    "Notes": "Another word for MSG. Man-made flavor enhancer."
+  }
+]
