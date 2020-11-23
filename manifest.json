@@ -2,7 +2,7 @@
     "background_color": "#E4C1F9",
     "display": "standalone",
     "orientation":"portrait",
-    "theme_color": "A9DEF9",           
+    "theme_color": "#E4C1F9",           
     "short_name": "Food check",
     "name": "Food check",
     "description": "No frills food quality checker",
