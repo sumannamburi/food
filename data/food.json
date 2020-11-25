@@ -1,1489 +1,1489 @@
 [
   {
     "Item": "Acacia gum",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Annatto",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Color from a seed added to make cheese orange.",
     "Store": ""
   },
   {
     "Item": "Artificial flavors",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "This one is easy!",
     "Store": ""
   },
   {
     "Item": "Aspertame",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Fake sugarak a NutraSweet",
     "Store": ""
   },
   {
     "Item": "BHT",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Bad preservative in cereal most brands donot use any more.",
     "Store": ""
   },
   {
     "Item": "Calcium carbonate",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Vitamin fortified with calcium common in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Calcium disodium EDTA",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Preservative used in mayonnaise to cover up rancid smells",
     "Store": ""
   },
   {
     "Item": "Canola oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only expeller pressed non-GMO or expeller pressed organic",
     "Store": ""
   },
   {
     "Item": "Caramel color",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Makes food look brown like stock and broth.",
     "Store": ""
   },
   {
     "Item": "Carrageenan",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Emulsifier made from seaweed known to upset your stomach",
     "Store": ""
   },
   {
     "Item": "Cellulose",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "but not idealWood pulp and used as anti-caking agent on shredded cheese",
     "Store": ""
   },
   {
     "Item": "Corn starch",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "except in some vegan productsUsually made from GMO corn",
     "Store": ""
   },
   {
     "Item": "Corn syrup",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Highly processed sugar from GMO corn",
     "Store": ""
   },
   {
     "Item": "Cottonseed Oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "The most processed and chemical laden oil.",
     "Store": ""
   },
   {
     "Item": "Dextrose",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Processed form of sugar",
     "Store": ""
   },
   {
     "Item": "Dicalcium phosphate",
-    "Safe?": "Yes - but not ideal",
+    "Safe": "Yes - but not ideal",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Dipotassium phosphate",
-    "Safe?": "Yes - but not ideal",
+    "Safe": "Yes - but not ideal",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Dough Conditioners",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Chemicals bread makers use to bake bread faster",
     "Store": ""
   },
   {
     "Item": "Enriched flour and bleached flour",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Processed flours that have the nutrition stripped away",
     "Store": ""
   },
   {
     "Item": "Erythritol",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Sugar free sweetener,  best when used in monk fruit sweetener",
     "Store": ""
   },
   {
     "Item": "Expeller pressed",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The safe way to consume certain oils",
     "Store": ""
   },
   {
     "Item": "Food colors",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Anything that says yellow #5;Blue #2; and so on.",
     "Store": ""
   },
   {
     "Item": "Gellan gum",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "High fructose corn syrup",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Highly processed sugar from GMO corn",
     "Store": ""
   },
   {
     "Item": "High oleic oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "High in heart healthy monounsaturated fat but not expeller pressed",
     "Store": ""
   },
   {
     "Item": "Hydrolyzed protein",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Another name for msg",
     "Store": ""
   },
   {
     "Item": "Locust bean gum",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Maltodextrin",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Preservative usually made from GMO corn. It's high on the glycemic index and will spike your blood sugar",
     "Store": ""
   },
   {
     "Item": "Monk fruit",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Both the pure form and monk fruit sweetener is one of my favorites",
     "Store": ""
   },
   {
     "Item": "Mono and diglycerides",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Another word for trans-fats",
     "Store": ""
   },
   {
     "Item": "Monosodium glutamate (MSG)",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Man-made MSG",
     "Store": ""
   },
   {
     "Item": "Natural flavors",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Stay away and read this chapter of the book",
     "Store": ""
   },
   {
     "Item": "Palm oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Avoid this highly processed oil.",
     "Store": ""
   },
   {
     "Item": "Polysorbate 80",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Nasty emulsifier",
     "Store": ""
   },
   {
     "Item": "Potassium Sorbate",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Preservative that can be bad for your gut. Not allowed in organic food products.",
     "Store": ""
   },
   {
     "Item": "RiboFlavin",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Another word for vitamin B2",
     "Store": ""
   },
   {
     "Item": "Safflower oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only expeller pressed is OK",
     "Store": ""
   },
   {
     "Item": "Sodium erythorbate",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Used to cure deli meat faster making it pinker",
     "Store": ""
   },
   {
     "Item": "Sodium nitrate/nitrite",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Salt that has long been used to preserve foods like deli meat and bacon.",
     "Store": ""
   },
   {
     "Item": "Sodium phosphate",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Avoid this common preservative in lunch meat",
     "Store": ""
   },
   {
     "Item": "Soy lecithin",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Soy protein isolate",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Avoid this protein derived from soy",
     "Store": ""
   },
   {
     "Item": "Soybean oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only expeller pressed non-GMO or expeller pressed organic",
     "Store": ""
   },
   {
     "Item": "Splenda",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Chemically made fake sugar that makes your brain crave more sweet things",
     "Store": ""
   },
   {
     "Item": "Stevia",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy pure  100% stevia with no additives",
     "Store": ""
   },
   {
     "Item": "Sucralose",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Another word for Splenda",
     "Store": ""
   },
   {
     "Item": "Sunflower lecithin",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Sunflower oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only expeller pressed",
     "Store": ""
   },
   {
     "Item": "Tapioca maltodextrin",
-    "Safe?": "Yes - but not ideal",
+    "Safe": "Yes - but not ideal",
     "Notes": "Safer version of this food preservative.",
     "Store": ""
   },
   {
     "Item": "Tapioca starch",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Usually found in gluten free products and is safe",
     "Store": ""
   },
   {
     "Item": "Tocopherols",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Natural form on vitamin E.Helps with preservation of cereals",
     "Store": ""
   },
   {
     "Item": "Tricalcium phosphate",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Vitamin fortified with calcium,  common in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Vegetable oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only expeller pressed non-GMO or expeller pressed organic",
     "Store": ""
   },
   {
     "Item": "Xanthan gum",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Common emulsifier in plant-based milk",
     "Store": ""
   },
   {
     "Item": "Yeast extract",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Another word for MSG. Man-made flavor enhancer.",
     "Store": ""
   },
   {
     "Item": "Natural flavors",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Uses chemicals to extract the flavors and not much different than artificial flavors",
     "Store": ""
   },
   {
     "Item": "Almond butter (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Best deal ever if you can find the organic variety buy it!",
     "Store": "Costco"
   },
   {
     "Item": "Almond flour (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Best deal ever!",
     "Store": "Costco"
   },
   {
     "Item": "Apple cider vinegar (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "3-pack for the best price and long shelf life.",
     "Store": "Costco"
   },
   {
     "Item": "Beef",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy the grass-fed beef frozen patties or the organic fresh ground beef.",
     "Store": "Costco"
   },
   {
     "Item": "Butter (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the organic one and Kerrygold.Unsalted preffered if avaliable.",
     "Store": "Costco"
   },
   {
     "Item": "Chicken (Kirklans)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the organic chicken breasts and thighs",
     "Store": "Costco"
   },
   {
     "Item": "Coconut oil (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Best price for extra virgin",
     "Store": "Costco"
   },
   {
     "Item": "Eggs (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the pasture raised eggs",
     "Store": "Costco"
   },
   {
     "Item": "Fish",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy the fresh fish if It's WILD like the perch and walleye",
     "Store": "Costco"
   },
   {
     "Item": "100% Grass-fed beef (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Both the frozen burger patties and the fresh ground if you can find it! Must say 100% GF or GF & grass finished",
     "Store": "Costco"
   },
   {
     "Item": "Greek yogurt (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic and plain greek yogurt. Just what the doctor ordered.",
     "Store": "Costco"
   },
   {
     "Item": "Himalayan pink salt (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yay to unrefined salt that is not bleached and highly processed",
     "Store": "Costco"
   },
   {
     "Item": "Honey (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the raw variety made in U.S.A.",
     "Store": "Costco"
   },
   {
     "Item": "King crab legs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "King crab legs",
     "Store": "Costco"
   },
   {
     "Item": "Kombucha (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Kirkland one has a bit more sugar than GT but It's clean.",
     "Store": "Costco"
   },
   {
     "Item": "Lamb (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "100% grass-fed and the price for the rack is amazing.",
     "Store": "Costco"
   },
   {
     "Item": "Lobster",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Wild caught",
     "Store": "Costco"
   },
   {
     "Item": "Mayonnaise (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only avocado mayo with No sugar like the Sir Kensington brand they are carrying now.",
     "Store": "Costco"
   },
   {
     "Item": "Nuts (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Everything except the pine nuts",
     "Store": "Costco"
   },
   {
     "Item": "Olive oil (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "both extra virgin and olive oil     I cook with the extra virgin because the price is right and It's not a finishing oil IMHO.",
     "Store": "Costco"
   },
   {
     "Item": "Peanut butter (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The organic peanut butter is best deal ever!",
     "Store": "Costco"
   },
   {
     "Item": "Protein bars (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Low sugar because they use stevia and they are keto approved! It does have natural flavors but I am still impressed by this bar.",
     "Store": "Costco"
   },
   {
     "Item": "Quinoa (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Best price ever",
     "Store": "Costco"
   },
   {
     "Item": "Spices (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Keep in mind ground spices start to lose flavor after 6 months. You may be better off buying 2 ounces from the bulk section of whole foods or a spice shop.",
     "Store": "Costco"
   },
   {
     "Item": "Turkey",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the organic variety.",
     "Store": "Costco"
   },
   {
     "Item": "Wild salmon (Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Such a great price",
     "Store": "Costco"
   },
   {
     "Item": "Yogurt(Kirkland)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic greek yogurt. It aint whole milk but its the best they got.",
     "Store": "Costco"
   },
   {
     "Item": "Coconut milk (Good&Gather)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "I wish it did not have guar gum but still good and a great price",
     "Store": "Target"
   },
   {
     "Item": "Coconut oil (Good&Gather)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Stick with the extra virgin oil",
     "Store": "Target"
   },
   {
     "Item": "Grass-fed beef (Good&Gather)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Go for the 80:20 blend",
     "Store": "Target"
   },
   {
     "Item": "Popcorn (Good&Gather)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic non-GMO corn with expeller pressed oil",
     "Store": "Target"
   },
   {
     "Item": "Acai packets",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     Just pure acai with No sugar added. This is what you want to buy not the sugar loaded acai drinks and pre-made bowls",
     "Store": "TJ's"
   },
   {
     "Item": "Almond butter (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "No need to buy the RAW variety. Almonds are always pasteurized.",
     "Store": "TJ's"
   },
   {
     "Item": "Apple cider vinegar (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Great price and it has the probiotic mother at the bottom",
     "Store": "TJ's"
   },
   {
     "Item": "Avocado hummus (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The only hummus that uses good quality oil at TJ's",
     "Store": "TJ's"
   },
   {
     "Item": "Autumnal harvest Pasta Sauce(TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Wish the cream was organic but really clean ingredients.",
     "Store": "TJ's"
   },
   {
     "Item": "Autumnal harvest soup(TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Wish the cream was organic but really clean ingredients.",
     "Store": "TJ's"
   },
   {
     "Item": "Beef",
-    "Safe?": "Yes/No",
+    "Safe": "Yes/No",
     "Notes": "They do have 100% grass-fed beef but I donotlove the texture of it.",
     "Store": "TJ's"
   },
   {
     "Item": "Bone broth (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "New item in the refrigerator case much better than the shelf stable one",
     "Store": "TJ's"
   },
   {
     "Item": "Cauliflower gnocchi (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "It's not low carb but the ingredients are clean and they use extra virgin olive oil",
     "Store": "TJ's"
   },
   {
     "Item": "Cheese (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes to organic cheeses grass-fed cheddar and my all-time fav aged cheese Pecorino Romano.",
     "Store": "TJ's"
   },
   {
     "Item": "Coconut aminos (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "A staple in the paleo & keto community although I prefer to use tamari soy sauce because it has that umami flavor. Buy the san-j brand of tamari at Whole Foods.",
     "Store": "TJ's"
   },
   {
     "Item": "Coffee",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The wintery blend and gingerbread flavored coffee are the only ones that donotuse natural flavors!",
     "Store": "TJ's"
   },
   {
     "Item": "Coconut milk (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "No emulsifiers just coconut and water. Go with the full fat variety. It's best in class!      Coconut cream     Yes     Great price and No filler.",
     "Store": "TJ's"
   },
   {
     "Item": "Coconut water",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     Only the pink bottle in the fridge section. Wow this is the same stuff as harmless harvest and the only kind of coconut water you want to drink because It's not highly pasteurized.",
     "Store": "TJ's"
   },
   {
     "Item": "Coconut smoothie",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     Raw coconut meat blended with the high quality coconut water winning!         Creamy pink primavera sauce (TJ's)     Yes     Very clean",
     "Store": "TJ's"
   },
   {
     "Item": "Dried fruit (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only non-sorbate dried fruit. Sorbate is a nasty preservative. Check the prunes and Turkish apricots.",
     "Store": "TJ's"
   },
   {
     "Item": "Eggs (TJ's)",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Only the Chino Valley brand because it is truly pasture raised",
     "Store": "TJ's"
   },
   {
     "Item": "Everything but the bagel seasoning (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Shake it over everything",
     "Store": "TJ's"
   },
   {
     "Item": "Fish sauce (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Ive been told Red Boat is one of the best brands!",
     "Store": "TJ's"
   },
   {
     "Item": "Gluten free bread and bagels (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "They make a mean gluten free bread. Ingredients are not the best but allowed.",
     "Store": "TJ's"
   },
   {
     "Item": "Gluten free pasta (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "My all-time favorite is the organic yellow lentil and brown rice spaghetti.       Heavy cream (TJ's)     Yes     Only the organic cream",
     "Store": "TJ's"
   },
   {
     "Item": "Honey mama’s",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Paleo chocolate bars made with honey.",
     "Store": "TJ's"
   },
   {
     "Item": "Hot dogs (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the grass-fed both TJ and Applegate brand.",
     "Store": "TJ's"
   },
   {
     "Item": "Ice cream (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Light chocolate peanut butter is my top choice. Many other ice creams have ingredients you want to avoid. Natural flavors carrageenan mono and diglycerides",
     "Store": "TJ's"
   },
   {
     "Item": "Juice shot (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Great for immune boost. Both the turmeric and ginger ones.",
     "Store": "TJ's"
   },
   {
     "Item": "Milk (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the grass-fed milk",
     "Store": "TJ's"
   },
   {
     "Item": "Mixed nut butter",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Their version of nutzo but I like nutzo better.",
     "Store": "TJ's"
   },
   {
     "Item": "Norwegian crisp bread (TJ's)",
-    "Safe?": "Yes/No",
+    "Safe": "Yes/No",
     "Notes": "Gluten free has nasty rapeseed oil but the regular one is clean.        Nuts (TJ's)     Yes     Nuts are a great deal here. Just make sure to buy unflavored. Otherwise there may be natural flavors and preservatives.",
     "Store": "TJ's"
   },
   {
     "Item": "Oil",
-    "Safe?": "Yes/No",
+    "Safe": "Yes/No",
     "Notes": "They have high oleic expeller pressed sunflower oil which is good for frying. Their greek olive oil is good and so is there non-propellant olive oil spray.",
     "Store": "TJ's"
   },
   {
     "Item": "Peanut butter (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Avoid the No STIR variety because of palm oil",
     "Store": "TJ's"
   },
   {
     "Item": "Peanut date bar (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Just 5 good quality ingredients",
     "Store": "TJ's"
   },
   {
     "Item": "Pickles (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the naturally fermented ones in the fridge case",
     "Store": "TJ's"
   },
   {
     "Item": "Popcorn",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     The bagged heirloom popcorn is made with avocado oil and pink salt.",
     "Store": "TJ's"
   },
   {
     "Item": "Protein bars (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Bulletproof collagen bars and Lärabars are my favorite",
     "Store": "TJ's"
   },
   {
     "Item": "Protein pancake mix (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Whole grains and clean",
     "Store": "TJ's"
   },
   {
     "Item": "Pumpkin bisque(TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Very clean but wish it had organic cream.",
     "Store": "TJ's"
   },
   {
     "Item": "Rice crumbs (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Gluten free version of panko breadcrumbs",
     "Store": "TJ's"
   },
   {
     "Item": "Salad dressing (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "By far the best is the almond butter and turmeric dressing and the green goddess dressing. Best ingredients ever!",
     "Store": "TJ's"
   },
   {
     "Item": "San Marzano tomatoes (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "These Italian tomatoes are my favorite although not nearly as cheap as Costco",
     "Store": "TJ's"
   },
   {
     "Item": "Sauerkraut (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Naturally fermented and much better price at Costco for Wildbrine product.",
     "Store": "TJ's"
   },
   {
     "Item": "Simply almond beverage (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Just almonds and water!",
     "Store": "TJ's"
   },
   {
     "Item": "Spindrift (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The only flavored sparkling water w/o natural flavors.Also avaliable now at Costco",
     "Store": "TJ's"
   },
   {
     "Item": "Sprouted bread (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "TJ variety is good but Ezekiel and Alvarado are better.",
     "Store": "TJ's"
   },
   {
     "Item": "Tuna",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Go for the chunk light tuna It's lowest in mercury.",
     "Store": "TJ's"
   },
   {
     "Item": "Tomato paste",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Love that It's in a squeeze tube would be even better if organic.",
     "Store": "TJ's"
   },
   {
     "Item": "Yogurt (TJ's)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only the organic 100% grass-fed plain in the green tub",
     "Store": "TJ's"
   },
   {
     "Item": "Almond milk",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The only one that does not have natural flavors is the conventional unsweetened friendly farms variety.",
     "Store": "Aldi"
   },
   {
     "Item": "Avocado",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Both the fresh and frozen chunks",
     "Store": "Aldi"
   },
   {
     "Item": "Avocado Oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Great price on this heart healthy high cooking temperature oil.",
     "Store": "Aldi"
   },
   {
     "Item": "Bacon",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy the “Never Any” bacon the other stuff is pumped full of bad stuff.",
     "Store": "Aldi"
   },
   {
     "Item": "Beef",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The ground beef is organic and 100% grass-fed at the lowest price I have ever seen for fresh beef. You can also buy the grass-fed cuts of beef.",
     "Store": "Aldi"
   },
   {
     "Item": "Biltong",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The cleanest version of beef jerky you can find.",
     "Store": "Aldi"
   },
   {
     "Item": "Bone Broth",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Chef’s cupboard chicken bone broth seems to be a seasonal item but the ingredients are really clean and the price is right. This is the only one I would buy.",
     "Store": "Aldi"
   },
   {
     "Item": "Bread",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Knock your sprouts off bread is your best option but not as clean as other sprouted",
     "Store": "Aldi"
   },
   {
     "Item": "Butter",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Looks like ALDI is moving away from Kerrygold and supplying their own brand of grass-fed Irish butter. It's cheaper and Ive heard that It's made by Kerrygold for private label purposes! The also have organic American style butter now very exciting.",
     "Store": "Aldi"
   },
   {
     "Item": "Cauliflower rice",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The frozen one is good for the FlavCity cauliflower pizza crust        Cheese     Yes     Only organic or the Irish block or sliced cheese",
     "Store": "Aldi"
   },
   {
     "Item": "Chicken",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic chicken breasts or thighs are the only ones I would buy if you can find them.",
     "Store": "Aldi"
   },
   {
     "Item": "Chicken sausage",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Simply Nature and never any Spinach and Feta variety is clean but stay away from the mild Italian which has natural flavors.",
     "Store": "Aldi"
   },
   {
     "Item": "Coconut cashew crisps",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Fantastic ingredients its paleo and they use a low glycemic sugar like coconut sugar.",
     "Store": "Aldi"
   },
   {
     "Item": "Coffee",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The ALDI organic beans or cold brew.",
     "Store": "Aldi"
   },
   {
     "Item": "Exotic blend vegetable chips",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Fried in expeller pressed oil and made with clean ingredients.",
     "Store": "Aldi"
   },
   {
     "Item": "Extra virgin olive oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Carlini is a great price.",
     "Store": "Aldi"
   },
   {
     "Item": "Frozen kids bites",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Simply Nature Frozen Kids Bites have clean ingredients and the right oil.",
     "Store": "Aldi"
   },
   {
     "Item": "Gluten free flour",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "No bean flour means No fart smells!",
     "Store": "Aldi"
   },
   {
     "Item": "Green pea crisps",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Good quality ingredients and expeller pressed oil.",
     "Store": "Aldi"
   },
   {
     "Item": "Ground bison",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Great deal and It's 100% grass-fed",
     "Store": "Aldi"
   },
   {
     "Item": "Hot dogs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic 100% grass-fed hot dogs for an unbeatable price. I wish they did not put natural flavors in there but It's so much better than conventional dogs that you should still buy it.",
     "Store": "Aldi"
   },
   {
     "Item": "Ice cream",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The premium ice cream has good ingredients and their version of Halo Top called Sundae Shoppe is phenomenal!",
     "Store": "Aldi"
   },
   {
     "Item": "Lunch meat",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Simply Nature Turkey and Ham have No fillers and great ingredients but stay away from the maple one because it has natural flavors.",
     "Store": "Aldi"
   },
   {
     "Item": "Marinara sauce",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Incredibly clean ingredients in some of the simply nature varieties.",
     "Store": "Aldi"
   },
   {
     "Item": "Milk",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Stick with the 100% grass-fed and organic for a fantastic price! Although I wish it was whole milk.",
     "Store": "Aldi"
   },
   {
     "Item": "Parmesan crisps",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Just one ingredient! Love this low carb keto snack",
     "Store": "Aldi"
   },
   {
     "Item": "Pasta",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Edamame and black soybean pasta. Both are lower carb pastas and made from organic beans. They now have red lentil and chickpea pasta both are gluten free and good stuff.",
     "Store": "Aldi"
   },
   {
     "Item": "Peanut butter",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic peanut butter only. Just nuts and salt hooray!",
     "Store": "Aldi"
   },
   {
     "Item": "Quinoa",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Pretty good price",
     "Store": "Aldi"
   },
   {
     "Item": "Rack of lamb",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "From Australia most likely grass-fed and an amazing price.",
     "Store": "Aldi"
   },
   {
     "Item": "Roast turkey and ham",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The organic Simply Nature is preferred but the Never Any is also clean except for the maple flavor.",
     "Store": "Aldi"
   },
   {
     "Item": "Spring mix",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic spring mix 16 ounce container for $4.99 is a great deal.",
     "Store": "Aldi"
   },
   {
     "Item": "Sweet potato bites or broccoli bites(Frozen)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Surprisingly clean ingredients and they use expeller pressed oils.",
     "Store": "Aldi"
   },
   {
     "Item": "Tortilla chips",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Simply Nature organic tortilla chips are an amazing deal.  Make sure they have expeller pressed oil. Even if It's organic it must say expeller pressed.",
     "Store": "Aldi"
   },
   {
     "Item": "Veggie Burgers",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The only one I would buy is the kale veggie burger or the lentil veggie burger. The other varieties have bad quality expeller-pressed oil.",
     "Store": "Aldi"
   },
   {
     "Item": "Yellow mustard",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "It's a miracle!I found mustard without natural flavors!",
     "Store": "Aldi"
   },
   {
     "Item": "Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Simply Nature organic yogurt. Only buy the whole milk plain version",
     "Store": "Aldi"
   },
   {
     "Item": "Almond milk (WF 365)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Go for the unsweetened plain organic almond milk because others have natural flavors.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Apple cider vinegar",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     The price is right",
     "Store": "Whole Foods"
   },
   {
     "Item": "Bulk section (WF 365)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Everything is cheaper because you donotpay for the packaging.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Chicken (Pine Manor,Bell Evans)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     365 Organic chicken is good but look for Pine Manor or Bell & Evans",
     "Store": "Whole Foods"
   },
   {
     "Item": "Epic bars",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Both the dried meat and protein bars",
     "Store": "Whole Foods"
   },
   {
     "Item": "Eggs (Vital Farms Seven Sons and others)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     They have a big variety of pasture raised eggs. Any brand that has the certified humane & pasture raised is good but go for the organic or Non-GMO variety.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Frozen vegetables (WF 365)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Not only a good deal but even the conventional frozen corn and soy is Non-GMO!",
     "Store": "Whole Foods"
   },
   {
     "Item": "Ketchup (Primal Kitchen)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Primal Kitchen sugar free ketchup is the way to go. Other varieties have added sugar.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Marinara sauce",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The organic 365 marinara sauce is really clean.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Mayonnaise (Primal Kitchen,Chosen Foods)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     Primal Kitchen or Chosen Foods are best in class and use avocado oil. Otherwise look for expeller pressed oil mayo without and added sugar or nasty stuff listed in the mayonnaise chapter.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Oil  (WF 365)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "A great place to buy expeller pressed cooking oil for deep fat frying because It's too pricey to fry with avocado oil.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Red finger peppers  (WF 365)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "This is where I get those skinny red peppers. You see me use all the time.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Salmon",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Good quality farm raised salmon from Norway always $9.99.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Sauerkraut",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The 365 brand of refrigerated sauerkraut if fermented and cheaper than Bubbies.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Shirataki noodles (Pasta Zero by Nasoya)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Pasta Zero by Nasoya my favorite shirataki noodles",
     "Store": "Whole Foods"
   },
   {
     "Item": "Spices (Bulk section)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "I like to buy 2 ounces of organic spices at a time in the bulk section never from the glass container in the aisle.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Yogurt (Stonyfield)",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "They have some fantastic organic and grass-fed yogurts along with great dairy free varieties. Plain organic and grass-fed Greek yogurt by Stonyfield is great stuff.",
     "Store": "Whole Foods"
   },
   {
     "Item": "Almond flour",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Second best price to Costco",
     "Store": "Walmart"
   },
   {
     "Item": "Applesauce",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Unflavored only",
     "Store": "Walmart"
   },
   {
     "Item": "Beef",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     100% grass-fed beef. Get the 80:20 ground beef variety - more fat equals more flavor. They also have steaks and stew meat!",
     "Store": "Walmart"
   },
   {
     "Item": "Biltong",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "The only clean beef jerky",
     "Store": "Walmart"
   },
   {
     "Item": "Bison",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Yes     100% grass-fed and a good deal",
     "Store": "Walmart"
   },
   {
     "Item": "Coconut flour",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Keto pantry staple",
     "Store": "Walmart"
   },
   {
     "Item": "Coconut sugar",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Love this low glycemic index sugar",
     "Store": "Walmart"
   },
   {
     "Item": "Coconut vinegar",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Wow! Never seen this before with the probiotic mother.",
     "Store": "Walmart"
   },
   {
     "Item": "Peanut butter",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only varieties w/o sugar and palm oil. Walmart organic and Smucker's are great.        Shirataki noodles     Yes     Pasta Zero by Nasoya. Look for them in the fridge area of the produce section. Best price ever.",
     "Store": "Walmart"
   },
   {
     "Item": "Sriracha sauce",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Buy the Sky Valley brand It's all- natural. Avoid the rooster brand. Too many preservatives.",
     "Store": "Walmart"
   },
   {
     "Item": "String cheese",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic snacking cheese made by Walmart.",
     "Store": "Walmart"
   },
   {
     "Item": "Algae oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Very heart healthy neutral flavored oil.",
     "Store": ""
   },
   {
     "Item": "Avocado oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "I love this stuff! A heart healthy monounsaturated fat that raises good cholesterol and lowers the bad. High in heart healthy oleic acid. A very high smoke point and has No flavor. Buy at Costco or Walmart. It's rarely cold pressed and usually refined or centrifuge separated. Both are ok.",
     "Store": ""
   },
   {
     "Item": "Canola oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
     "Item": "Coconut oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "This is a good saturated fat because It's high in MCT’s and lauric acid. High smoke point and won’t burn easily. I prefer to buy extra virgin coconut oi compared to refined. Buy the big jug at Costco.",
     "Store": ""
   },
   {
     "Item": "Cooking spray",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy non-propellant oil spray that uses good fat like avocado oil or olive oil.",
     "Store": ""
   },
   {
     "Item": "Corn oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed & non-GMO     Just as bad as canola oil.",
     "Store": ""
   },
   {
     "Item": "Cottonseed Oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "The most processed and chemical laden oil.",
     "Store": ""
   },
   {
     "Item": "Expeller pressed oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "If you want to buy canola peanut grapeseed sunflower oils it has to say EXPELLER PRESSED. This means it was not nearly as processed and subjected to high heat and chemicals. Also make sure It's non-GMO if buying canola or veggie oil because it came from soybeans and corn.",
     "Store": ""
   },
   {
     "Item": "Ghee",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy 100% grass-fed ghee. ALDI has a great price Thrive market brand is my favorite and I have heard Costco is starting to carry it.",
     "Store": ""
   },
   {
     "Item": "Grapeseed oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Only buy expeller pressed. It's great for high heat cooking and has No flavor.",
     "Store": ""
   },
   {
     "Item": "High oleic oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "High in heart healthy monounsaturated fat but not expeller pressed. Usually sunflower or safflower oil.",
     "Store": ""
   },
   {
     "Item": "Olive oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "donotbelieve the hype. Olive oil is safe to cook with and won’t burn and give you cancer. It's a monounsaturated fat that is stable from 370-400F.  Cook with olive oil and finish with extra virgin olive oil or use it for salad dressings. I actually buy the big jug of EVOO at Costco and cook with it because the price is right. Other good finishing extra virgin olive oil brands are California and lucini.",
     "Store": ""
   },
   {
     "Item": "Organic oil",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Must also be expeller pressed if It's sunflower safflower canola peanut or soybean oil       Palm oil     No     Horrible for you and the environment. Only red palm oil is good but you will never see it used.",
     "Store": ""
   },
   {
     "Item": "Peanut oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed",
     "Store": ""
   },
   {
     "Item": "Rapeseed oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed & non-GMO     Rapeseed is another name for canola It's common in Europe.",
     "Store": ""
   },
   {
     "Item": "Safflower oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed",
     "Store": ""
   },
   {
     "Item": "Soybean oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
     "Item": "Sunflower oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "unless expeller pressed",
     "Store": ""
   },
   {
     "Item": "Truffle oil",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Almost all truffle oils are made with natural flavors or aromas just read the label.       Vegetable oil     No unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
     "Item": "Celtic sea salt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Another great finishing salt because it has large crystals and is crunchy.",
     "Store": ""
   },
   {
     "Item": "Himalayan pink salt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "You can cook or finish with this salt from the Pakistan mountains. I’m not a huge fan of cooking with it because the grains are small and tough to pinch. That’s why I prefer kosher.",
     "Store": ""
   },
   {
     "Item": "Maldon sea salt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Amazing finishing salt. I would not use for cooking.",
     "Store": ""
   },
   {
     "Item": "Redmond real salt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Pure sea salt from Utah. Buy the kosher style for cooking",
     "Store": ""
   },
   {
     "Item": "Iodized table salt",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "This type of table salt is highly processed refined and bleached. They add anti-caking agent so the salt flows out easily. All the natural minerals are bleached away and the flavor is straight up sodium chloride. You can get iodine from a good diet or supplements. It's not worth eating crappy salt for it.",
     "Store": ""
   },
   {
     "Item": "Conventional/Cage Free/Free Range eggs",
-    "Safe?": "No",
+    "Safe": "No",
     "Notes": "Not Humanely raised.",
     "Store": ""
   },
   {
     "Item": "Pasture Raised Eggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "I only recommend buying pasture raised eggs that are organic or non-GMO.You can find pasture raised eggs nationwide now! donotbe fooled by fancy names or marketing terms. It must say pasture raised on the box along with at least 108 square feet of room to roam for the hens. I would get the organic or the non-GMO variety because even pasture chickens get a supplemental feed of grain and you donotwant the GMO feed. Even better you can find co-op markets that sell locally sourced pasture raised eggs. Here in Chicago Dill Pickle co-op sells Mint Creek Farms eggs which are incredible because they have No soy in the feed.",
     "Store": ""
   },
   {
     "Item": "Chinno Valley pasture raised Eggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "You can find these at Trader Joe’s but not organic.",
     "Store": ""
   },
   {
     "Item": "Kirkland organic pasture raised Eggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Perhaps not as good as others on this list but the best you can get at Costco.",
     "Store": ""
   },
   {
     "Item": "Pete & Gerry’s Organic Eggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "If you cant find pasture eggs this is your next best option",
     "Store": ""
   },
   {
     "Item": "Seven sons pasture raised Eggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Look for the non-GMO variety",
     "Store": ""
   },
   {
     "Item": "The happy egg co.",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "If you cant find pasture eggs this is your next best option",
     "Store": ""
   },
   {
     "Item": "Vital farms pasture raisedEggs",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Go for the organic or non-GMO variety.",
     "Store": ""
   },
   {
     "Item": "Organic Chicken",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "I would highly advise buying organic chicken. Organic chicken means 100% organic non-GMO feed No animal byproducts No antibiotics outdoor access No irradiation No pesticides. The only place you can buy pasture raised chicken meat is from a local co-op or farmers market.",
     "Store": ""
   },
   {
     "Item": "Pine Manor brand Chicken",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Good organic chicken at WholeFoods",
     "Store": ""
   },
   {
     "Item": "Organic Simply Nature chicken breasts",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Aldi",
     "Store": ""
   },
   {
     "Item": "Perdue Harvestland organic chicken",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Walmart!!",
     "Store": ""
   },
   {
     "Item": "Kirkland organic chicken",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Costco and decent",
     "Store": ""
   },
   {
     "Item": "Yogurt",
-    "Safe?": "Yes/No",
+    "Safe": "Yes/No",
     "Notes": "Avoid Yogurt made with milk that is not organic or grass-fed.Avoid yogurt Containing added sugar starches or natural flavors.Buy 100% grass-fed organic Greek style yogurt: the best yogurt you can possibly eat is 100% grass-fed organic Greek style yogurt. The nutritional profile of organic and grass-fed yogurt is fantastic and Greek style yogurt is strained which increases the protein and decreases the lactose.  Avoid buying flavored yogurts of any kind as they are loaded with sugar and cancel the probiotic effect. If you cant find 100% grass-fed buy organic I would not eat conventional dairy because the cows eat GMO grains.",
     "Store": ""
   },
   {
     "Item": "Green valley creamery Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Lactose free yogurt and organic for the win!",
     "Store": ""
   },
   {
     "Item": "Vegan & plant based yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Remember to only buy the plain unsweetened versions of these yogurts. The only exception is Lavva yogurt.",
     "Store": ""
   },
   {
     "Item": "Maple Hill Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "100% grass-fed Greek yogurt",
     "Store": ""
   },
   {
     "Item": "Nancy's Probiotic Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "100% grass-fed whole milk yogurt",
     "Store": ""
   },
   {
     "Item": "Organic Valley Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "100% grass-fed plain yogurt",
     "Store": ""
   },
   {
     "Item": "Siggis & Icelandic provisions",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "plain only.     If you cant find grass-fed or organic these are your next best options.",
     "Store": ""
   },
   {
     "Item": "Stonyfield Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "but not flavored varieties.     Organic 100% grass-fed Greek yogurt is the way to go. If not just get the organic.",
     "Store": ""
   },
   {
     "Item": "Trader Joes",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "Organic 100% grass-fed yogurt. Not Greek style but still very good.",
     "Store": ""
   },
   {
     "Item": "Forager Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "vegan     Cashew yogurt with a lovely flavor.",
     "Store": ""
   },
   {
     "Item": "Lavva yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "vegan     Best in class vegan yogurt ingredients are exceptional and they use real fruit so you can actually get the flavored varieties.",
     "Store": ""
   },
   {
     "Item": "Nancy's probiotic",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "vegan     The new oat milk yogurt is great.",
     "Store": ""
   },
   {
     "Item": "Kite Hill Yogurt",
-    "Safe?": "Yes",
+    "Safe": "Yes",
     "Notes": "vegan     Almond yogurt. Get the Greek style with a whopping 11 grams of protein.",
     "Store": ""
   }
