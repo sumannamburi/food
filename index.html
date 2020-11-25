@@ -49,6 +49,7 @@ h3 {text-align: center;}
  $(document).ready(function() {
     $('#tab').DataTable( {
       "deferRender": true,
+      "bLengthChange": false,
         "ajax": {
             "url": "data/food.json",
             "dataSrc": ""
