@@ -13,7 +13,13 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/food/css/rowReorder.dataTables.min.css',
   '/food/css/dataTables.jqueryui.min.css',
   '/food/js/jquery-3.5.1.min.js',
-  '/food/favicon.png'
+  '/food/favicon.png',
+  '/food/images/icons/Header.png',
+  '/food/images/sort_both.png',
+  '/food/images/sort_asc.png',
+  '/food/manifest.json',
+  '/food/images/icons/android-launchericon-192-192.png'
+  
 
 
      // add path to those files here
