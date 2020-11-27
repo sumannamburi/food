@@ -3,8 +3,8 @@
     "display": "standalone",
     "orientation":"portrait",
     "theme_color": "#c3a0b1",           
-    "short_name": "Food check",
-    "name": "Food check",
+    "short_name": "Healthy foods",
+    "name": "Healthy foods",
     "description": "No frills food quality checker",
     "lang": "en-US",
     "icons": [

@@ -18,7 +18,11 @@ var URLS = [                            // Add URL you want to cache in this lis
   '/food/images/sort_both.png',
   '/food/images/sort_asc.png',
   '/food/manifest.json',
-  '/food/images/icons/android-launchericon-192-192.png'
+  '/food/images/icons/android-launchericon-192-192.png',
+  '/food/images/icons/apple-touch-icon-ipad-76x76-precomposed.png',
+  '/food/images/icons/apple-touch-icon-ipad-retina-152x152-precomposed.png',
+  '/food/images/icons/apple-touch-icon-iphone-60x60-precomposed.png',
+  '/food/images/icons/apple-touch-icon-iphone-retina-120x120-precomposed.png'
   
 
 
