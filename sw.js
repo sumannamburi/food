@@ -1,8 +1,8 @@
-var APP_PREFIX = 'food_'     // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = 'version_01'              // Version of the off-line cache (change this value everytime you want to update cache)
+var APP_PREFIX = 'food_'     
+var VERSION = 'version_01'              
 var CACHE_NAME = APP_PREFIX + VERSION
-var URLS = [                            // Add URL you want to cache in this list.
-  '/food/',                     // If you have separate JS/CSS files,
+var URLS = [                           
+  '/food/',                    
   '/food/index.html',
   '/food/data/food.json',
   '/food/sw.js',
