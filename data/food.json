@@ -188,7 +188,7 @@
   {
     "Item": "Acai packets",
     "Safe": "Yes",
-    "Notes": "Yes     Just pure acai with No sugar added. This is what you want to buy not the sugar loaded acai drinks and pre-made bowls",
+    "Notes": "Yes Just pure acai with No sugar added. This is what you want to buy not the sugar loaded acai drinks and pre-made bowls",
     "Store": "Trader Joe's"
   },
   {
@@ -224,7 +224,7 @@
   {
     "Item": "Beef",
     "Safe": "Yes/No",
-    "Notes": "They do have 100% grass-fed beef  but texture is not right.",
+    "Notes": "They do have 100% grass-fed beef but texture is not right.",
     "Store": "Trader Joe's"
   },
   {
@@ -272,13 +272,13 @@
   {
     "Item": "Coconut water",
     "Safe": "Yes",
-    "Notes": "Yes     Only the pink bottle in the fridge section. Wow this is the same stuff as harmless harvest and the only kind of coconut water you want to drink because It's not highly pasteurized.",
+    "Notes": "Yes Only the pink bottle in the fridge section. Wow this is the same stuff as harmless harvest and the only kind of coconut water you want to drink because It's not highly pasteurized.",
     "Store": "Trader Joe's"
   },
   {
     "Item": "Coconut smoothie",
     "Safe": "Yes",
-    "Notes": "Yes     Raw coconut meat blended with the high quality coconut water winning!",
+    "Notes": "Yes Raw coconut meat blended with the high quality coconut water winning!",
     "Store": "Trader Joe's"
   },
   {
@@ -404,7 +404,7 @@
   {
     "Item": "Popcorn",
     "Safe": "Yes",
-    "Notes": "Yes     The bagged heirloom popcorn is made with avocado oil and pink salt.",
+    "Notes": "Yes The bagged heirloom popcorn is made with avocado oil and pink salt.",
     "Store": "Trader Joe's"
   },
   {
@@ -542,7 +542,7 @@
   {
     "Item": "Cauliflower rice     (Aldi)",
     "Safe": "Yes",
-    "Notes": "The frozen one is good for the FlavCity cauliflower pizza crust        Cheese     Yes     Only organic or the Irish block or sliced cheese",
+    "Notes": "The frozen one is good for the FlavCity cauliflower pizza crust Cheese Yes Only organic or the Irish block or sliced cheese",
     "Store": "Aldi"
   },
   {
@@ -716,7 +716,7 @@
   {
     "Item": "Apple cider vinegar",
     "Safe": "Yes",
-    "Notes": "Yes     The price is right",
+    "Notes": "Yes The price is right",
     "Store": "Whole Foods"
   },
   {
@@ -728,7 +728,7 @@
   {
     "Item": "Chicken (Pine Manor,Bell Evans)",
     "Safe": "Yes",
-    "Notes": "Yes     365 Organic chicken is good but look for Pine Manor or Bell & Evans",
+    "Notes": "Yes 365 Organic chicken is good but look for Pine Manor or Bell & Evans",
     "Store": "Whole Foods"
   },
   {
@@ -740,7 +740,7 @@
   {
     "Item": "Eggs (Vital Farms Seven Sons and others)",
     "Safe": "Yes",
-    "Notes": "Yes     They have a big variety of pasture raised eggs. Any brand that has the certified humane & pasture raised is good but go for the organic or Non-GMO variety.",
+    "Notes": "Yes They have a big variety of pasture raised eggs. Any brand that has the certified humane & pasture raised is good but go for the organic or Non-GMO variety.",
     "Store": "Whole Foods"
   },
   {
@@ -764,7 +764,7 @@
   {
     "Item": "Mayonnaise (Primal Kitchen,Chosen Foods)",
     "Safe": "Yes",
-    "Notes": "Yes     Primal Kitchen or Chosen Foods are best in class and use avocado oil. Otherwise look for expeller pressed oil mayo without and added sugar or nasty stuff listed in the mayonnaise chapter.",
+    "Notes": "Yes Primal Kitchen or Chosen Foods are best in class and use avocado oil. Otherwise look for expeller pressed oil mayo without and added sugar or nasty stuff listed in the mayonnaise chapter.",
     "Store": "Whole Foods"
   },
   {
@@ -824,7 +824,7 @@
   {
     "Item": "Beef (Walmart )",
     "Safe": "Yes",
-    "Notes": "Yes     100% grass-fed beef. Get the 80:20 ground beef variety - more fat equals more flavor. They also have steaks and stew meat!",
+    "Notes": "Yes 100% grass-fed beef. Get the 80:20 ground beef variety - more fat equals more flavor. They also have steaks and stew meat!",
     "Store": "Walmart"
   },
   {
@@ -836,7 +836,7 @@
   {
     "Item": "Bison (Walmart )",
     "Safe": "Yes",
-    "Notes": "Yes     100% grass-fed and a good deal",
+    "Notes": "Yes 100% grass-fed and a good deal",
     "Store": "Walmart"
   },
   {
@@ -896,7 +896,7 @@
   {
     "Item": "Canola oil",
     "Safe": "No",
-    "Notes": "unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
+    "Notes": "unless expeller pressed & non-GMO Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
@@ -914,7 +914,7 @@
   {
     "Item": "Corn oil",
     "Safe": "No",
-    "Notes": "unless expeller pressed & non-GMO     Just as bad as canola oil.",
+    "Notes": "unless expeller pressed & non-GMO Just as bad as canola oil.",
     "Store": ""
   },
   {
@@ -974,7 +974,7 @@
   {
     "Item": "Rapeseed oil",
     "Safe": "No",
-    "Notes": "unless expeller pressed & non-GMO     Rapeseed is another name for canola It's common in Europe.",
+    "Notes": "unless expeller pressed & non-GMO Rapeseed is another name for canola It's common in Europe.",
     "Store": ""
   },
   {
@@ -986,7 +986,7 @@
   {
     "Item": "Soybean oil",
     "Safe": "No",
-    "Notes": "unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
+    "Notes": "unless expeller pressed & non-GMO Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
@@ -998,7 +998,7 @@
   {
     "Item": "Vegetable oil",
     "Safe": "No",
-    "Notes": "No unless expeller pressed & non-GMO     Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
+    "Notes": "No unless expeller pressed & non-GMO Made with GMO plants and highly processed and refined at such high temperatures that is changed the fatty acid to a trans fat! They use a chemical called hexane to extract all the oil from the plant.",
     "Store": ""
   },
   {
@@ -1154,13 +1154,13 @@
   {
     "Item": "Siggis & Icelandic provisions",
     "Safe": "Yes",
-    "Notes": "plain only.     If you cant find grass-fed or organic these are your next best options.",
+    "Notes": "plain only. If you cant find grass-fed or organic these are your next best options.",
     "Store": ""
   },
   {
     "Item": "Stonyfield Yogurt",
     "Safe": "Yes",
-    "Notes": "but not flavored varieties.     Organic 100% grass-fed Greek yogurt is the way to go. If not just get the organic.",
+    "Notes": "but not flavored varieties. Organic 100% grass-fed Greek yogurt is the way to go. If not just get the organic.",
     "Store": ""
   },
   {
@@ -1172,25 +1172,25 @@
   {
     "Item": "Forager Yogurt",
     "Safe": "Yes",
-    "Notes": "vegan     Cashew yogurt with a lovely flavor.",
+    "Notes": "vegan Cashew yogurt with a lovely flavor.",
     "Store": ""
   },
   {
     "Item": "Lavva yogurt",
     "Safe": "Yes",
-    "Notes": "vegan     Best in class vegan yogurt ingredients are exceptional and they use real fruit so you can actually get the flavored varieties.",
+    "Notes": "vegan Best in class vegan yogurt ingredients are exceptional and they use real fruit so you can actually get the flavored varieties.",
     "Store": ""
   },
   {
     "Item": "Nancy's probiotic",
     "Safe": "Yes",
-    "Notes": "vegan     The new oat milk yogurt is great.",
+    "Notes": "vegan The new oat milk yogurt is great.",
     "Store": ""
   },
   {
     "Item": "Kite Hill Yogurt",
     "Safe": "Yes",
-    "Notes": "vegan     Almond yogurt. Get the Greek style with a whopping 11 grams of protein.",
+    "Notes": "vegan Almond yogurt. Get the Greek style with a whopping 11 grams of protein.",
     "Store": ""
   },
   {
@@ -1358,7 +1358,7 @@
   {
     "Item": "Hemp milk",
     "Safe": "Yes",
-    "Notes": "More healthy fats and protein than most milk alternatives   ?",
+    "Notes": "More healthy fats and protein than most milk alternatives ?",
     "Store": ""
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "Item": "COFFEE CREAMER",
     "Safe": "Yes/No",
-    "Notes": "Most all powdered coffee creamers. The cheap ones at the store are a mix of corn syrup and crappy oils.    Anything from International Delight and Coffee Mate is garbage. The contain No dairy. It's all water sugar and bad oils.    Walden Farms coffee creamer should be avoided and all things made by them. It's all food coloring additives and fake ingredients.    Barista blends: They are loaded with oils and emulsifiers to help thicken and make them frothy. This can upset your stomach especially if you have GI issues.",
+    "Notes": "Most all powdered coffee creamers. The cheap ones at the store are a mix of corn syrup and crappy oils. Anything from International Delight and Coffee Mate is garbage. The contain No dairy. It's all water sugar and bad oils. Walden Farms coffee creamer should be avoided and all things made by them. It's all food coloring additives and fake ingredients. Barista blends: They are loaded with oils and emulsifiers to help thicken and make them frothy. This can upset your stomach especially if you have GI issues.",
     "Store": ""
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "Item": "BREAD",
     "Safe": "Yes/No",
-    "Notes": "Made from whole grains & wheat. Whole grain meaning the bran germ and endosperm are used to make the bread.    High in fiber and protein at least 2-3 grams per slice    Low in sugar (2 grams of less) ideally No added sugar. AVOID \"Enriched white flour or wheat flour\" means you're eating bread made with refined grains that have little nutrition. Any white bread falls under this category.",
+    "Notes": "Made from whole grains & wheat. Whole grain meaning the bran germ and endosperm are used to make the bread. High in fiber and protein at least 2-3 grams per slice Low in sugar (2 grams of less) ideally No added sugar. AVOID \"Enriched white flour or wheat flour\" means you're eating bread made with refined grains that have little nutrition. Any white bread falls under this category.",
     "Store": ""
   },
   {
@@ -1616,7 +1616,7 @@
   {
     "Item": "Ezekiel 4:9  Bread",
     "Safe": "Yes",
-    "Notes": "Anything from this company. Buy it from Trader Joe's - they have the best price.       Hamburger Buns/Bread     Yes     Ezekiel 4:9 Rudi's Silver Hills Canyon Ranch Gluten Free Trader Joe's Gluten Free (Has the best texture - very similar to regular buns. Price is right but ingredients not as clean as others.",
+    "Notes": "Anything from this company. Buy it from Trader Joe's - they have the best price. Hamburger Buns/Bread Yes Ezekiel 4:9 Rudi's Silver Hills Canyon Ranch Gluten Free Trader Joe's Gluten Free (Has the best texture - very similar to regular buns. Price is right but ingredients not as clean as others.",
     "Store": ""
   },
   {
@@ -1640,7 +1640,7 @@
   {
     "Item": "CHEESE",
     "Safe": "Yes/No",
-    "Notes": "Organic dairy - it has a better nutritional profile and is not fed GMO corn and soy. Never buy shredded cheeses as the flavor is not nearly as good and it does not melt as well since it's coating in anti-caking agents like potato starch.    Grass-fed cheese is even better because the cows don't eat any grains even if it's not organic.",
+    "Notes": "Organic dairy - it has a better nutritional profile and is not fed GMO corn and soy. Never buy shredded cheeses as the flavor is not nearly as good and it does not melt as well since it's coating in anti-caking agents like potato starch. Grass-fed cheese is even better because the cows don't eat any grains even if it's not organic.",
     "Store": ""
   },
   {
@@ -1694,7 +1694,7 @@
   {
     "Item": "PEANUT AND NUT BUTTERS",
     "Safe": "Yes/No",
-    "Notes": "Look for nut butters that only have two ingredients: nuts & salt.If you see sugar or palm oil run far away!    Don't buy any flavored varieties (except Nutzo) or reduced fat.    There is No healthy version of Nutella at the store :)   Never buy ??No-stir?? nut butter - it is loaded with palm oil and hydrogenated oil.",
+    "Notes": "Look for nut butters that only have two ingredients: nuts & salt.If you see sugar or palm oil run far away! Don't buy any flavored varieties (except Nutzo) or reduced fat. There is No healthy version of Nutella at the store :) Never buy ??No-stir?? nut butter - it is loaded with palm oil and hydrogenated oil.",
     "Store": ""
   },
   {
@@ -1826,7 +1826,7 @@
   {
     "Item": "Chocolate sauce for ice cream",
     "Safe": "Yes",
-    "Notes": "(if you must buy)     Santa Cruz and Whole Foods make a decent chocolate sauce that is not loaded with crap.",
+    "Notes": "(if you must buy) Santa Cruz and Whole Foods make a decent chocolate sauce that is not loaded with crap.",
     "Store": "Whole Foods"
   },
   {
@@ -1850,7 +1850,7 @@
   {
     "Item": "Ice cream cones",
     "Safe": "Yes",
-    "Notes": "(if you must buy)     Three Twins makes the best ice cream cone but I would just avoid the cones all together.",
+    "Notes": "(if you must buy) Three Twins makes the best ice cream cone but I would just avoid the cones all together.",
     "Store": ""
   },
   {
@@ -1862,19 +1862,19 @@
   {
     "Item": "Keto Pint Ice cream",
     "Safe": "Yes",
-    "Notes": "keto     Online only: https://ketopint.com/",
+    "Notes": "keto Online only: https://ketopint.com/",
     "Store": ""
   },
   {
     "Item": "Killer Creamery Ice Cream",
     "Safe": "Yes",
-    "Notes": "keto     Online only: https://killercreamery.com/",
+    "Notes": "keto Online only: https://killercreamery.com/",
     "Store": ""
   },
   {
     "Item": "Mammoth Creameries Ice Cream",
     "Safe": "Yes",
-    "Notes": "keto     Online only: https://www.mammothcreameries.com/",
+    "Notes": "keto Online only: https://www.mammothcreameries.com/",
     "Store": ""
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "Item": "Rebel Creamery Ice Cream",
     "Safe": "Yes",
-    "Notes": "keto     Online only: https://rebelcreamery.com/ Stick with vanilla and chocolate; others have natural flavors.",
+    "Notes": "keto Online only: https://rebelcreamery.com/ Stick with vanilla and chocolate; others have natural flavors.",
     "Store": ""
   },
   {
@@ -1928,13 +1928,13 @@
   {
     "Item": "CONDIMENTS",
     "Safe": "Yes/No",
-    "Notes": "Sugar free ketchup. It's readily available these days.    Avocado oil mayo as it is the highest quality & most healthy oil to make mayo from.    Organic yellow mustard is the way to go to avoid those pesky natural flavors.    No/low sugar added BBQ sauce (as it's typically loaded with sugar).   Buy sriracha from Sky Valley - very clean and the best price is at Walmart.   Vegan Mayo: Chosen foods made with avocado oil   Vegan Mayo: Sir Kensington's: Only the one made with avocado oil    Vegan Mayo: Follow your heart: Go for the soy free version and avoid the grapeseed oil as it's not expeller pressed.Avoid sriracha sauce made from Huy Fong (with the rooster on the bottle) - it has too many preservatives.",
+    "Notes": "Sugar free ketchup. It's readily available these days. Avocado oil mayo as it is the highest quality & most healthy oil to make mayo from. Organic yellow mustard is the way to go to avoid those pesky natural flavors. No/low sugar added BBQ sauce (as it's typically loaded with sugar). Buy sriracha from Sky Valley - very clean and the best price is at Walmart. Vegan Mayo: Chosen foods made with avocado oil Vegan Mayo: Sir Kensington's: Only the one made with avocado oil Vegan Mayo: Follow your heart: Go for the soy free version and avoid the grapeseed oil as it's not expeller pressed.Avoid sriracha sauce made from Huy Fong (with the rooster on the bottle) - it has too many preservatives.",
     "Store": ""
   },
   {
     "Item": "BBQ sauce",
     "Safe": "Yes",
-    "Notes": "The only No & low sugar BBQ sauces that doesn't have other bad ingredients:    Primal kitchen: https://amzn.to/32MdvsG    The New Primal: https://amzn.to/2Ym11Ve    Tessemae's: https://amzn.to/32VS9Jk",
+    "Notes": "The only No & low sugar BBQ sauces that doesn't have other bad ingredients: Primal kitchen: https://amzn.to/32MdvsG The New Primal: https://amzn.to/2Ym11Ve Tessemae's: https://amzn.to/32VS9Jk",
     "Store": ""
   },
   {
@@ -2156,7 +2156,7 @@
   {
     "Item": "Grandy oats paleo granola (snacks)  ?",
     "Safe": "Yes",
-    "Notes": "These are some of the best grain free oats I have ever tasted. https://amzn.to/2ql2QqD   ?",
+    "Notes": "These are some of the best grain free oats I have ever tasted. https://amzn.to/2ql2QqD ?",
     "Store": ""
   },
   {
@@ -2180,7 +2180,7 @@
   {
     "Item": "Innofoods dark chocolate nuggets (snacks)??",
     "Safe": "Yes",
-    "Notes": "Minimal amount of added sugar for this super clean chocolate sweet treat.    ?",
+    "Notes": "Minimal amount of added sugar for this super clean chocolate sweet treat. ?",
     "Store": ""
   },
   {
@@ -2192,7 +2192,7 @@
   {
     "Item": "Just the cheese bars (snacks)",
     "Safe": "Yes",
-    "Notes": "Aged cheese bars just one ingredient. https://amzn.to/2KmR5GU   ?",
+    "Notes": "Aged cheese bars just one ingredient. https://amzn.to/2KmR5GU ?",
     "Store": ""
   },
   {
@@ -2246,13 +2246,13 @@
   {
     "Item": "NuCo coconut wrap (snacks)",
     "Safe": "Yes",
-    "Notes": "https://amzn.to/2Krb6fq   ?",
+    "Notes": "https://amzn.to/2Krb6fq ?",
     "Store": ""
   },
   {
     "Item": "Nyrvana (snacks)",
     "Safe": "Yes",
-    "Notes": "Keto & sugar free chocolate truffles. Incredible product: http://nyrvana.com/flavcity       On the border blue corn organic chips (snacks)    Yes     Cooked in good quality expeller pressed oil.",
+    "Notes": "Keto & sugar free chocolate truffles. Incredible product: http://nyrvana.com/flavcity On the border blue corn organic chips (snacks) Yes Cooked in good quality expeller pressed oil.",
     "Store": ""
   },
   {
@@ -2406,1047 +2406,1047 @@
     "Store": ""
   },
   {
-    "Item": 2,
-    "Safe": 4,
-    "Notes": "5-trihydroxybutyrophenone (THBP)",
-    "Store": "No"
+    "Item": "trihydroxybutyrophenone (THBP)",
+    "Safe": "No",
+    "Notes": "From the list of ingredients banned by Whole Foods",
+    "Store": ""
   },
   {
     "Item": "acesulfame-K",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "acetoin (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "acetone peroxides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "acetylated esters of mono- and diglycerides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "activated charcoal",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "advantame",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "aluminum ammonium sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "aluminum potassium sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "aluminum starch octenylsuccinate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "aluminum sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ammonium alum",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ammonium chloride",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ammonium saccharin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ammonium sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "apricot kernel/extract",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "aspartame",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "azo dyes",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "azodicarbonamide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Bacillus coagulans Unique IS-2",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "bacillus subtilis DE111",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Bacopa",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "bacteriophage preparation",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "bentonite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "benzoates",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "benzoic acid",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "benzophenone",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "benzoyl peroxide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "benzyl alcohol",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Benzyl benzoate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "beta-cyclodextrin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "BHA (butylated hydroxyanisole)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "BHT (butylated hydroxytoluene)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "bleached flour",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "bromated flour",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "brominated vegetable oil",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "burnt alum",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "butylparaben",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "caffeine (extended release)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium benzoate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium bromate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium disodium EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium peroxide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium propionate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium saccharin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium sorbate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "calcium stearoyl-2-lactylate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "canthaxanthin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "caprocaprylobehenin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "carmine",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "CBD/cannabidiol",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "certified colors",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "charcoal powder",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Citrus Red No. 2",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "cochineal",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "DATEM",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "diacetyl (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "dimethyl Silicone",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "dimethylpolysiloxane",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "dioctyl sodium sulfosuccinate (DSS)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium 5'-ribonucleotides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium calcium EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium dihydrogen EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium guanylate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "disodium inosinate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "dodecyl gallate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "erythrosine",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ethoxyquin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ethyl acrylate (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ethyl vanillin (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ethylene glycol",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "eugenyl methyl ether (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Blue No. 1",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Blue No. 2",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Colors",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Green No. 3",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Red No. 3",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Red No. 40",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Yellow No. 5",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "FD&C Yellow No. 6",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "foie gras",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "gardenia blue",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Ginkgo biloba",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "GMP",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "gold/gold leaf",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "He shou wu",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "heptylparaben",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "hexa- hepta- and octa-esters of sucrose",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "high-fructose corn syrup/HFCS",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "hjijiki",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "hydrogenated oils",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "inosine monophosphate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "insect Flour",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "iron oxide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "kava/kava kava",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "lactic acid esters of monoglycerides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "lactylated esters of mono- and diglycerides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "ma huang",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Melatonin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "methyl silicon",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "methylparaben",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "microparticularized whey protein derived fat substitute",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "monoammonium glutamate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "monopotassium glutamate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "monosodium glutamate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "myrcene (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "natamycin (okay in cheese-rind wax)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "neotame",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "nitrates (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "nitrites (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "octyl gallate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "olestra",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "Orange B",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "partially hydrogenated oils",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "plant sterols",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "polydextrose",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium alum",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium benzoate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium bisulfite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium bromate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium metabisulfite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium nitrate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium nitrite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium propionate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "potassium sorbate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propane-1",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propionates",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propionic acid",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propyl gallate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propylene glycol esters of fatty acids",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propylene oxide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "propylparaben",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "pulegone (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "pyridine (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "saccharin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "saccharin sodium salt",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "salatrim (short and long chain acyl triglyceride molecule)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "shark cartilage",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "smoke flavor (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium acid sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium alum",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium aluminum phosphate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium aluminum sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium benzoate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium bisulfite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium cyclamate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium diacetate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium lauryl sulfate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium metabisulfite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium nitrateitrite (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium propionate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium saccharin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium sorbate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium stearoyl lactylate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium stearoyl-2-lactylate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sodium sulfite",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sorbic acid",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "stannous chloride",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "succistearin",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sucralose",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sucroglycerides",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sucrose acetate isobutyrate",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sucrose ester",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sucrose polyester",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sulfites",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "sulfur dioxide",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "TBHQ (tertiary butylhydroquinone)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "tetrasodium EDTA",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "thiodipropionic acid",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "toluene",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "tonka bean/extract",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   },
   {
     "Item": "vanillin (synthetic)",
     "Safe": "No",
-    "Notes": "",
+    "Notes": "From the list of ingredients banned by Whole Foods",
     "Store": ""
   }
 ]
