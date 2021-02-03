@@ -4,6 +4,7 @@ var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                           
   '/food/',                    
   '/food/index.html',
+  '/food/food.html',
   '/food/data/food.json',
   '/food/sw.js',
   '/food/js/jquery.dataTables.min.js',
