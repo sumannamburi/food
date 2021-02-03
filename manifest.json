@@ -3,9 +3,9 @@
     "display": "standalone",
     "orientation":"portrait",
     "theme_color": "#c3a0b1",           
-    "short_name": "Healthy foods",
-    "name": "Healthy foods",
-    "description": "Healthy Foods dB",
+    "short_name": "Healthy food",
+    "name": "Healthy food",
+    "description": "Healthy Food dB",
     "lang": "en-US",
     "icons": [
           {
